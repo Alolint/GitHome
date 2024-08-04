@@ -22,4 +22,8 @@
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 7b069f20a1fc3117976a1afb2c2a6acd41f9cdac
